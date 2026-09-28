@@ -280,56 +280,7 @@ void stripNewline(char str[])
 str[strcspn(str, "\n")] = '\0';
 }
 
-a
-d
-1
-SuperLongLastNameThatShouldBeTruncatedByFgetsBecauseItIsWayTooLongToFit
-Name With Multiple Spaces
-c
-d
-1
-Doe
-Jane
-e
-1
-y
-e
-1
-y
-d
-2
-q
-d
-3
-Smith
-q
-b
-f
 
-b
-d
-5
-Ali
-Mushtaq
-c
-e
-5
-n
-e
-5
-y
-x
-f
-
-z
-a
-d
-24
-
-Last
-First
-f
-c
 
 
 
