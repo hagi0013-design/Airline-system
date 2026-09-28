@@ -30,7 +30,6 @@ I used an AI tool to generate `test_input.txt`, requesting:
 
 
 ### Fixes
-- Replaced all mixed input with unified input utilities
 - Added rollback logic for aborted assignments
 - Added strict buffer flushing after every menu read
 
